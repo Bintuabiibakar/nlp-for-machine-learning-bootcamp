@@ -1,0 +1,13 @@
+Assignment 2 – output.txt
+
+This file must contain the real output of preprocessing_practice.py.
+
+The execution environment used to prepare these starter files does not have the required NLTK datasets installed and cannot download them. Therefore, no NLTK results have been fabricated here.
+
+From the assignment-02 folder, after running the course setup command:
+    python code/download-nltk-data.py
+
+generate this file on your computer with:
+    python preprocessing_practice.py > output.txt
+
+Then replace this note with the generated output.txt before submitting.
